@@ -1,0 +1,91 @@
+.titleHome{
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+.img-cab{
+    width: 100%;
+   border: 0px;
+    margin-top: 4%;
+}
+.txt-logo{
+    font-size: 30px;
+}
+.title-conhece{
+    font-size: 27px;
+    font-weight: bold;
+    margin-top: 5%;
+}
+.div-space{
+    height: 100px;
+}
+.parag-conhece{
+    font-size: 20px;
+}
+.title-cards{
+    font-size: 27px;
+    font-weight: bold;
+    margin-top: 5%;
+    
+}
+.btn-posts{
+    height: 60px;
+    width: 415px;
+    margin-bottom: 6%;
+}
+.foot-site{
+    height: 17%;
+    font-size: 13px;
+}
+.foot-text-1{
+    margin-top: 2%;
+    color: rgb(151, 151, 151);
+}
+.foot-text-2{
+
+    
+}
+.foot-text-3{
+    color: rgb(189, 189, 189);  
+ 
+}
+.link-foot{
+    margin-left: 3%;
+    color: rgb(204, 204, 204);
+}
+.link-foot:hover{
+    color: rgb(163, 163, 163);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+::-webkit-scrollbar{
+	width: 10px;
+}
+
+::-webkit-scrollbar-track{
+	background-color: rgb(97, 97, 97);
+}
+::-webkit-scrollbar-thumb{
+	background-color: rgb(151, 151, 151);
+	border-radius: 10px;
+}
+::-webkit-scrollbar-thumb:houver{
+	background-color: rgb(161, 161, 161);
+}
