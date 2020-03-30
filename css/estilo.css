@@ -36,8 +36,8 @@
 /* CONHECE O DEV VIEW? */
 .text-oque-e-dev-view{
     font-weight: bold;
-    font-size: 40px;
-    margin-top:25%;
+    font-size: 25px;
+    margin-top: 30px;
 }
 .link-conheca-mais{
     color: rgb(46, 234, 103);
@@ -69,7 +69,7 @@
 
 /* FOOT DO SITE */
 .foot-site{
-    height: 17%;
+    height: 125px;
     font-size: 13px;
 }
 .foot-text-1{
@@ -78,13 +78,13 @@
     margin-left: 10px;
 }
 .foot-text-3{
-    color: rgb(46, 234, 103);
+    color: rgb(151, 151, 151);
     margin-left: 10px;
 }
 .link-foot{
     margin-left: 3%;
     color: rgb(46, 234, 103);
-    margin-right: 15px;
+    margin-right: 10px;
 }
 .link-foot:hover{
     color: rgb(163, 163, 163);
